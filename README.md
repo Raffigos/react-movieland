@@ -1,6 +1,6 @@
 # Movieland
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movieland is a web application that allows users to browse and search for movies. It is built using React and provides a user-friendly interface to discover movies by an API.
 
 Currently, two official plugins are available:
 
